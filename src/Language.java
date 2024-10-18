@@ -1,0 +1,3 @@
+public enum Language {
+    ENGLISH,PERSIAN,FRENCH,RUSSIAN,ITALIAN,ARABIC
+}
